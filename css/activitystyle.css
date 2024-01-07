@@ -1,0 +1,19 @@
+.activity-details img{
+    display: block;
+    width: 500px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+.activity-details h2{
+    width: fit-content;
+    margin: auto;
+    text-transform: uppercase;
+    margin-top: 16px;
+}
+
+.activity-details p{
+    line-height: 25px;
+    letter-spacing: 1px;
+    padding: 0 20px;
+}
